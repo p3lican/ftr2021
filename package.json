@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "from-the-river-films",
   "version": "2.1.0",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <sven@svenparker.com> (https://svenparker.com)",
+  "description": "From the River Films",
+  "author": "Alejandro",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/knogobert/ntn-boilerplate#readme"
+    "url": ""
   },
   "license": "MIT",
   "dependencies": {
