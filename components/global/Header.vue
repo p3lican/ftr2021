@@ -1,10 +1,8 @@
 <template>
   <nav class="scrim-bg fixed z-40 top-0 inset-x-0 pt-3 px-3" aria-label="Main Menu">
-    <ul class="flex">
+    <ul class="flex text-xs">
       <li class="flex w-50">
-        <nuxt-link class="btn block" to="/">
         <img src="../../assets/river-logo.png">
-        </nuxt-link>
       </li>
       <li class="flex-1 ml-2">
         <nuxt-link class="btn block" to="/">About</nuxt-link>
@@ -13,13 +11,13 @@
         <nuxt-link class="btn block" to="/narrative">Narrative</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="/projects">Documentary</nuxt-link>
+        <nuxt-link class="btn block" to="/documentary">Documentary</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="/projects">Commercial</nuxt-link>
+        <nuxt-link class="btn block" to="/commercial">Commercial</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="/projects">Contact</nuxt-link>
+        <nuxt-link class="btn block" to="/contact">Contact</nuxt-link>
       </li>
     </ul>
   </nav>
@@ -33,23 +31,11 @@ export default {
 
 <style lang="postcss" scoped>
 .scrim-bg {
-  &::before {
-    content: '';
-    z-index: -1;
-    background-color: var(--bg);
-    @apply absolute bottom-0 inset-x-0 h-12 mb-4 transition-colors duration-200 ease-in-out;
-  }
-  &::after {
-    content: '';
-    z-index: -1;
-    opacity: 1;
-    animation: fadeIn1 500ms ease-in-out;
-    @apply pointer-events-none absolute bottom-0 inset-x-0 h-16 -mb-12;
-    background: linear-gradient(to bottom, #111827, cubic-bezier(0.15, 0, 0.45, 1), transparent);
-  }
+
+
 }
 .nuxt-link-exact-active {
-  @apply text-gray-200 border-gray-400 bg-gray-800 bg-opacity-25 cursor-default;
+  @apply text-gray-900 border-gray-400 bg-gray-200 cursor-default;
 }
 
 .light {
