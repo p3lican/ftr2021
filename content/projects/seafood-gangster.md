@@ -1,5 +1,6 @@
 ---
 category: narrative
+createdAt: 2021-07-28T23:39:33.117Z
 title: SEAFOOD GANGSTER
 description: " Short film comedy"
 cover: http://i3.ytimg.com/vi/UC8wMxI4F6w/maxresdefault.jpg

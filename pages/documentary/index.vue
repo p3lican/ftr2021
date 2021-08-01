@@ -23,7 +23,7 @@ export default {
   },
 
   async asyncData({ $content, route }){ 
-    const theProjects = await $content("projects").where({
+    const theProjects = await $content("projects").sortBy('createdAt').where({
       category: { $eq:  route.name }
     }).fetch();
 

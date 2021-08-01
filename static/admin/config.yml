@@ -68,6 +68,7 @@ collections:
           default: 'narrative',
           options: [{ label: 'Narrative', value: 'narrative' }, { label: 'Documentary', value: 'documentary' }, { label: 'Commercial', value: 'commercial' }],
         }
+      - { label: 'Created Date', name: 'createdAt', widget: 'datetime', date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Cover Image', name: 'cover', widget: 'image', required: false, allow_multiple: false }
