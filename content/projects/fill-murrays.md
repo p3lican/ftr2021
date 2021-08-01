@@ -2,8 +2,10 @@
 category: animals
 title: Fill Murrays
 description: Yet another placeholding project, but with Bills
-cover: https://www.fillmurray.com/g/400/200
-gallery: ['https://www.fillmurray.com/g/800/400', 'https://www.fillmurray.com/600/600']
+cover: /img/training-camp-highlights-20201-7-29-21.jpg
+gallery:
+  - https://www.fillmurray.com/g/800/400
+  - https://www.fillmurray.com/600/600
 ---
 
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
