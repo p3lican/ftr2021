@@ -65,8 +65,8 @@ collections:
           label: 'Project Category',
           name: 'category',
           widget: 'select',
-          default: 'animals',
-          options: [{ label: 'Animals', value: 'animals' }, { label: 'Food', value: 'food' }],
+          default: 'narrative',
+          options: [{ label: 'Narrative', value: 'narrative' }, { label: 'Documentary', value: 'documentary' }, { label: 'Commercial', value: 'commerical' }],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }

@@ -10,7 +10,7 @@
         <nuxt-link class="btn block" to="/">About</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="/blog">Narrative</nuxt-link>
+        <nuxt-link class="btn block" to="/narrative">Narrative</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
         <nuxt-link class="btn block" to="/projects">Documentary</nuxt-link>

@@ -1,5 +1,5 @@
 ---
-category: animals
+category: narrative
 title: Fill Murrays
 description: Yet another placeholding project, but with Bills
 cover: /img/training-camp-highlights-20201-7-29-21.jpg
