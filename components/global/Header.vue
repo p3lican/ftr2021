@@ -1,6 +1,6 @@
 <template>
   <nav class="scrim-bg fixed z-40 top-0 inset-x-0 pt-3 px-3" aria-label="Main Menu">
-    <ul class="flex text-xs">
+    <ul class="flex text-xs overflow-auto">
       <li class="flex w-50">
         <img src="../../assets/river-logo.png">
       </li>
@@ -17,7 +17,7 @@
         <nuxt-link class="btn block" to="/commercial">Commercial</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="/contact">Contact</nuxt-link>
+        <nuxt-link class="btn block" to="/contact-me">Contact</nuxt-link>
       </li>
     </ul>
   </nav>

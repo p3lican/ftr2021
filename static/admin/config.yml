@@ -66,7 +66,7 @@ collections:
           name: 'category',
           widget: 'select',
           default: 'narrative',
-          options: [{ label: 'Narrative', value: 'narrative' }, { label: 'Documentary', value: 'documentary' }, { label: 'Commercial', value: 'commerical' }],
+          options: [{ label: 'Narrative', value: 'narrative' }, { label: 'Documentary', value: 'documentary' }, { label: 'Commercial', value: 'commercial' }],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
