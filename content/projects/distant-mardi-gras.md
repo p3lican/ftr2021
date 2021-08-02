@@ -1,6 +1,6 @@
 ---
 category: documentary
-createdAt: 2021-08-02T01:33:56.877Z
+createdAt: 2021-08-03T01:33:56.877Z
 title: Distant Mardi Gras
 description: '2020 New Orleans Film Festival official selection. Shot entirely
   on Super 8mm, "Distant Mardi Gras" is an experimental short that combines
