@@ -115,13 +115,14 @@ export default {
     // ? Safelisting docs: https://purgecss.com/safelisting.html
     safelist: {
       standard: ['video-playlist'],
-      deep: [/dark/, /light/, /btn/, /icon/, /main/],
+      deep: [/dark/, /light/, /btn/, /icon/, /main/, /video-playlist/],
       greedy: [
         /^card/,
         /^nuxt-content/,
         /image$/,
         /title$/,
         /^nuxt-content/,
+        /^video-playlist/,
         /code/,
         /pre/,
         /token/,
