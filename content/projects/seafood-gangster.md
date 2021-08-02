@@ -3,7 +3,7 @@ category: narrative
 createdAt: 2021-07-28T23:39:33.117Z
 title: SEAFOOD GANGSTER
 description: " Short film comedy"
-cover: http://i3.ytimg.com/vi/UC8wMxI4F6w/maxresdefault.jpg
+cover: https://i3.ytimg.com/vi/UC8wMxI4F6w/maxresdefault.jpg
 gallery: []
 ---
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/UC8wMxI4F6w?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -3,7 +3,7 @@ category: narrative
 createdAt: 2021-07-27T23:38:47.114Z
 title: JALAPEÑO ANDRETTI
 description: Writer & Director
-cover: http://i3.ytimg.com/vi/8N5rkQIZ6Wk/maxresdefault.jpg
+cover: https://i3.ytimg.com/vi/8N5rkQIZ6Wk/maxresdefault.jpg
 gallery: []
 ---
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8N5rkQIZ6Wk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

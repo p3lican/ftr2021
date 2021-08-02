@@ -3,7 +3,7 @@ category: narrative
 createdAt: 2021-08-01T23:39:14.284Z
 title: "PSA: Baby Hackers"
 description: Baby Hackers are a menace. Protect yourself before you become a victim.
-cover: http://i3.ytimg.com/vi/jZ5R5fwDrSk/maxresdefault.jpg
+cover: https://i3.ytimg.com/vi/jZ5R5fwDrSk/maxresdefault.jpg
 gallery: []
 ---
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/jZ5R5fwDrSk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
