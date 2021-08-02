@@ -52,6 +52,32 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: 'award'
+    label: 'Award'
+    folder: 'content/award'
+    create: true
+    format: 'frontmatter'
+    slug: '{{slug}}'
+    # editor:
+    #   preview: true
+    fields:
+      - { label: 'Created Date', name: 'createdAt', widget: 'datetime', date_format: "YYYY-MM-DD", time_format: false }
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Logo Image', name: 'logo', widget: 'image', required: true, allow_multiple: false }
+  - name: 'client'
+    label: 'Client'
+    folder: 'content/client'
+    create: true
+    format: 'frontmatter'
+    slug: '{{slug}}'
+    # editor:
+    #   preview: true
+    fields:
+      - { label: 'Created Date', name: 'createdAt', widget: 'datetime', date_format: "YYYY-MM-DD", time_format: false }
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Logo Image', name: 'logo', widget: 'image', required: true, allow_multiple: false }
   - name: 'projects'
     label: 'Projects'
     label_singular: 'Project'
