@@ -114,8 +114,8 @@ export default {
     mode: 'postcss',
     // ? Safelisting docs: https://purgecss.com/safelisting.html
     safelist: {
-      // standard: [],
-      deep: [/dark/, /light/, /btn/, /icon/, /main/, /video-playlist/],
+      standard: ['video-playlist'],
+      deep: [/dark/, /light/, /btn/, /icon/, /main/],
       greedy: [
         /^card/,
         /^nuxt-content/,
