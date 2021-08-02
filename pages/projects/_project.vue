@@ -43,7 +43,7 @@ export default {
 </script>
 
 <style>
-
+/* purgecss ignore */
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
@@ -54,7 +54,7 @@ export default {
   position: sticky;
   top: 65px;
 }
- 
+/* purgecss ignore */
 .video-container iframe,
 .video-container object,
 .video-container embed {
