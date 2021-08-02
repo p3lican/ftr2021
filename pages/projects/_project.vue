@@ -29,6 +29,7 @@
 </template>
 
 <style scoped>
+/*! purgecss start ignore */
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
@@ -48,6 +49,7 @@
   width: 100%;
   height: 100%;
 }
+/*! purgecss end ignore */
 </style>
 
 <script>
