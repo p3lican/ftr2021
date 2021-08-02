@@ -2491,6 +2491,8 @@ img.text-logo {
     position: relative;
     left: -50px;
 }
-
+img.text-logo{
+    max-width: 240px;
+}
 }
 </style>

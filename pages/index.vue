@@ -2,13 +2,13 @@
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
       <img src="../assets/alejandro-de-los-rios-from-the-river-films.jpg">
-      <h1 class="title text-center text-3xl">From The River Films | Alejandro de los Rios</h1>
+      <h1 class="title text-center text-3xl mt-5">From The River Films | Alejandro de los Rios</h1>
       <h2 class="subtitle text-center">Just your typical Nicaraguan-born, half-Cuban, half-Venezuelan filmmaker based in New Orleans.</h2>
     </section>
 
-    <section class="mt-8">
+    <!-- <section class="mt-8">
       <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Latest blog post</h3>
       <posts post-type="blog" :amount="1" />
-    </section>
+    </section> -->
   </main>
 </template>
