@@ -2,7 +2,7 @@
 category: commercial
 createdAt: 2021-10-13T14:13:01.334Z
 title: Bud Light - 'Saints Friends Forever'
-description: Bud Lite & Kermit Ruffins teamed up for a Saints-themed music video
+description: DIRECTOR, EDITOR, DIRECTOR OF PHOTOGRAPHY
 ---
 <!--StartFragment-->
 
